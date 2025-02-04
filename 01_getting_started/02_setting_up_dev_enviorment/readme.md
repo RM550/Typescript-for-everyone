@@ -167,8 +167,6 @@ Now that you have learned the basics, here are some topics you can explore next:
 🔹 **Working with TypeScript in a Full-Stack Environment**.
 🔹 **Building Scalable Applications with TypeScript**.
 
-For more resources, check the [official TypeScript documentation](https://www.typescriptlang.org/). 📚
-
 ---
 
 ## 🏆 Conclusion 🎯
